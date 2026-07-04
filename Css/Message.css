@@ -1,0 +1,49 @@
+
+header{
+    text-align: center;
+    background-color: red;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+}
+
+a:link,a:visited{
+    color: white;
+    text-decoration: none;
+    
+}
+
+a:active,a:hover{
+    color: rgb(0, 245, 20);
+    text-decoration: underline;
+}
+
+img{
+display: block;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 100%;
+   height: auto;
+   margin-bottom: 10px;
+
+}
+
+div.contern{
+    padding: 10px;
+    font-size: 20px;
+    
+}
+
+div.normal{
+    margin-top: 15px;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-size: 17px;
+}
+
+footer{
+    background-color: rgb(214, 139, 0);
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
